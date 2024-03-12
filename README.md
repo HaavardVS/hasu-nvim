@@ -1,0 +1,2 @@
+# hasu-nvim
+Neovim config

@@ -1,4 +1,6 @@
+require("hasu.plugins-setup")
 require("hasu.core.options")
 require("hasu.core.keymaps")
 require("hasu.core.colorscheme")
-
+require("hasu.plugins.nvim-tree")
+require("hasu.plugins.telescope")
